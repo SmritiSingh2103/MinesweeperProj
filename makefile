@@ -1,2 +1,2 @@
 try: try.c init.h
-  cc -c try.c
+  cc -c try.c -lncurses
