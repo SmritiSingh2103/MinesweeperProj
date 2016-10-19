@@ -301,6 +301,8 @@ first();
 }
 
 void custom(){
+	
+	system("clear");
 
 int a,b;
 
