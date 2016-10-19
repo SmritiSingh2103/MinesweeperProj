@@ -123,6 +123,8 @@ void repaint(void *ptr)
 }
 
 void easy(){
+	
+	system("clear");
 
 MEVENT evt;
 
@@ -179,6 +181,8 @@ first();
 }
 
 void inter(){
+	
+	system("clear");
 
 MEVENT evt;
 	
@@ -237,6 +241,8 @@ first();
 }
 
 void diff(){
+	
+	system("clear");
 
 MEVENT evt;
 	
