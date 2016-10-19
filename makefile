@@ -1,2 +1,2 @@
-try.o: try.c init.h
-cc -c try.c
+try: try.c init.h
+  cc -c try.c
