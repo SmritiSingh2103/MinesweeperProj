@@ -308,9 +308,7 @@ void resume ()
       else if (c == 'n')
 	{
 	  refresh();
-	  flag1 = 1;
-	  save(m);
-	  game();
+	  first();
 	  break;
 	}
     }
@@ -641,9 +639,7 @@ void game ()
       else if (c == 'n')
 	{
 	  refresh();
-	  flag1 = 1;
-	  save(m);
-	  game();
+	  first();
 	  break;
 	}
     }
